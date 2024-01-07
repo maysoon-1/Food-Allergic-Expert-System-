@@ -76,7 +76,7 @@ Therefore, it is essential to offer a simple database about food allergies,
 making it easier to comprehend food components and verify whether they 
 contain ingredients to be avoided for those with specific allergies.
 ## Rules
-1. A rule to verify whether the product contains a specified component representing an allergen.
+1.A rule to verify whether the product contains a specified component representing an allergen.
 
 2.A rule to check if the product is safe, meaning it does not contain any of 
 the specified allergenic components. Also make ensure that none
