@@ -82,3 +82,6 @@ contain ingredients to be avoided for those with specific allergies.
 the specified allergenic components. Also make ensure that none
  of the allergens are present in the product.
 
+ ## Result
+ <img src="https://github.com/maysoon-1/Food-Allergic-Expert-System-/assets/107502613/b32c81c0-1aff-43a4-9c33-119f26457b4c" width="500">
+
