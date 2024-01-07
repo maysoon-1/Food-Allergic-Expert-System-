@@ -69,15 +69,16 @@ https://www.niaid.nih.gov/diseases-conditions/food-allergy
 ## Facts
 Many food recipes share common basic ingredients. Providing a 
 description related to food allergies in some dishes, for instance, 
-"Chocolate Cake," reveals ingredients that may trigger allergies for 
+1."Chocolate Cake," reveals ingredients that may trigger allergies for 
 individuals sensitive to components like eggs, milk, and gluten. These are 
 fundamental ingredients in the majority of chocolate cake recipes. 
 Therefore, it is essential to offer a simple database about food allergies, 
 making it easier to comprehend food components and verify whether they 
 contain ingredients to be avoided for those with specific allergies.
 ## Rules
-1: A rule to verify whether the product contains a specified component 
+1. A rule to verify whether the product contains a specified component 
 representing an allergen.
-2:A rule to check if the product is safe, meaning it does not contain any of 
-the specified allergenic components. Also make ensure that none of the 
-allergens are present in the product.
+2.A rule to check if the product is safe, meaning it does not contain any of 
+the specified allergenic components. Also make ensure that none
+ of the allergens are present in the product.
+
